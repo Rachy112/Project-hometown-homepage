@@ -6,7 +6,7 @@ body {
 } 
 
  .main {
-    background-image: url(images/shot.jfif);
+    background-image: url(shot.jfif);
     background-size: cover;
     padding: 10px 0 100px 0;
     color: #f1faee;
